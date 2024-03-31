@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979159928580",
+    "project_id": "mycrudapp-e1dd2",
+    "storage_bucket": "mycrudapp-e1dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979159928580:android:8c3b71632a719e2412ca51",
+        "android_client_info": {
+          "package_name": "com.mycrudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsW1-6YTpHtHJd9AmLXyk0dPCnfUAWepU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
